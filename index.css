@@ -1,0 +1,40 @@
+
+.app{
+ 
+  display: flex;
+  padding: 30px;
+  
+}
+
+.game{
+  margin: auto;
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.game img{
+  width: 70px;
+  height: 70px;
+}
+
+
+.header{
+  display: flex;
+}
+
+.title{
+  margin-left: 10px; 
+  color: rgb(9, 131, 153);
+}
+
+.score-board{
+  color: rgb(9, 131, 153);
+  font-weight: bolder;
+  font-variant: small-caps;
+  font-size: large;
+  margin-left: auto; 
+  margin-right: 30px;
+}
+
